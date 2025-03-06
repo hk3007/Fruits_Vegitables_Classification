@@ -12,8 +12,11 @@ This is an AI-powered **Fruits & Vegetables Classification** model built with **
    ```bash
    git clone https://github.com/yourusername/Image-Classification.git
 2. Navigate into the folder:
+   ```bash
     cd Image-Classification
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
     pip install -r requirements.txt
-4. Run the Streamlit app:
+6. Run the Streamlit app:
+   ```bash
     streamlit run app/app.py
