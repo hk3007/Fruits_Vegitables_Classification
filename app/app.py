@@ -11,7 +11,7 @@ st.header('🍎🥦 Image Classification Model: Fruits & Vegetables 🥕🍍')
 
 # Load the trained model with error handling
 try:
-    model = load_model(r'D:\Programming\Fruits AND Vegetables classification\Image_classify.keras')
+    model = load_model('..\model\Image_classify.keras')
 except Exception as e:
     st.error(f"❌ Model loading failed: {e}")
     st.stop()
