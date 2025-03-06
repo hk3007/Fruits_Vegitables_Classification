@@ -10,7 +10,7 @@ This is an AI-powered **Fruits & Vegetables Classification** model built with **
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Image-Classification.git
+   git clone https://github.com/hk3007/Fruits_Vegitables_Classification.git
 2. Navigate into the folder:
    ```bash
     cd Image-Classification
